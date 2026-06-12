@@ -179,11 +179,17 @@ Joining full-time as part of the 2026 batch.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bal-reddy9059&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+![Full-Stack](https://img.shields.io/badge/🏅_Full--Stack_Developer-1%2B_Year_Experience-7c3aed?style=for-the-badge)
+![AWS](https://img.shields.io/badge/☁️_AWS_Cloud-EC2_%7C_S3_%7C_RDS_%7C_VPC-FF9900?style=for-the-badge)
+![AI Builder](https://img.shields.io/badge/🤖_AI_Builder-LLM_%7C_GAN_%7C_LangGraph-00b4d8?style=for-the-badge)
+
+![DSA](https://img.shields.io/badge/⚡_DSA_Practitioner-LeetCode_Active-FFA116?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/🔓_Open_Source-Contributor-2ea44f?style=for-the-badge)
+![Fresher](https://img.shields.io/badge/🎓_B.Tech_CSE-2026_Graduate-e63946?style=for-the-badge)
 
 </div>
 
