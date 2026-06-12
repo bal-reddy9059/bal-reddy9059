@@ -26,7 +26,7 @@ I'm a **Full-Stack & Backend Developer** with **1+ year of hands-on experience**
 - 🔭 Building **SafePayAI** — AI-powered fraud detection platform (GAN + Random Forest)
 - ☁️ Hands-on with **AWS** — EC2, S3, RDS, VPC, Docker, Kubernetes
 - 💡 Documenting my **DSA / LeetCode journey** on LinkedIn for fellow fresher devs
-- 🚀 Joining **Mindpool Technologies** (June 2026)
+
 - ⚡ Fun fact: I debug production at midnight and still push clean commits
 - 📍 Based in **Bengaluru, India**
 
@@ -40,7 +40,7 @@ I'm a **Full-Stack & Backend Developer** with **1+ year of hands-on experience**
 <td>
 <strong>Full-Stack Developer Intern</strong> — <a href="https://hiremaze.in">HireMaze</a><br/>
 <sub>Nov 2025 – Present · Remote</sub><br/>
-Building full-stack features using React, NestJS, PostgreSQL. Working on recruiter-side dashboards, job-matching pipelines, and API integrations.
+Building full-stack features using React, NestJS, PostgreSQL. Working on recruiter-side dashboards, job-matching pipelines, and API integrations. 🏆 Awarded <strong>Best Intern of the Month</strong> for consistent dedication and proactive contribution to the team.
 </td>
 </tr>
 <tr>
@@ -51,14 +51,7 @@ Building full-stack features using React, NestJS, PostgreSQL. Working on recruit
 Built and maintained backend services using Node.js and NestJS. Worked on document processing APIs, authentication flows, and database optimization with PostgreSQL and Redis.
 </td>
 </tr>
-<tr>
-<td width="60px" align="center">🚀</td>
-<td>
-<strong>Software Developer</strong> — <a href="#">Mindpool Technologies</a><br/>
-<sub>June 2026 – Present · Upcoming</sub><br/>
-Joining full-time as part of the 2026 batch.
-</td>
-</tr>
+
 </table>
 
 ---
@@ -187,6 +180,7 @@ Joining full-time as part of the 2026 batch.
 ![AWS](https://img.shields.io/badge/☁️_AWS_Cloud-EC2_%7C_S3_%7C_RDS_%7C_VPC-FF9900?style=for-the-badge)
 ![AI Builder](https://img.shields.io/badge/🤖_AI_Builder-LLM_%7C_GAN_%7C_LangGraph-00b4d8?style=for-the-badge)
 
+![Best Intern](https://img.shields.io/badge/🏆_Best_Intern_of_the_Month-HireMaze_Recognition-FFD700?style=for-the-badge&labelColor=1a1a2e)
 ![DSA](https://img.shields.io/badge/⚡_DSA_Practitioner-LeetCode_Active-FFA116?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/🔓_Open_Source-Contributor-2ea44f?style=for-the-badge)
 ![Fresher](https://img.shields.io/badge/🎓_B.Tech_CSE-2026_Graduate-e63946?style=for-the-badge)
