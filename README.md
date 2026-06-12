@@ -180,7 +180,7 @@ Built and maintained backend services using Node.js and NestJS. Worked on docume
 ![AWS](https://img.shields.io/badge/☁️_AWS_Cloud-EC2_%7C_S3_%7C_RDS_%7C_VPC-FF9900?style=for-the-badge)
 ![AI Builder](https://img.shields.io/badge/🤖_AI_Builder-LLM_%7C_GAN_%7C_LangGraph-00b4d8?style=for-the-badge)
 
-![Best Intern](https://img.shields.io/badge/🏆_Best_Intern_of_the_Month-HireMaze_Recognition-FFD700?style=for-the-badge&labelColor=1a1a2e)
+[![Best Intern](https://img.shields.io/badge/🏆_Best_Intern_of_the_Month-HireMaze_Recognition-FFD700?style=for-the-badge&labelColor=1a1a2e)](https://www.linkedin.com/posts/hiremaze-internofthemonth-lifeathiremaze-share-7426895747104550913-8RRw/)
 ![DSA](https://img.shields.io/badge/⚡_DSA_Practitioner-LeetCode_Active-FFA116?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/🔓_Open_Source-Contributor-2ea44f?style=for-the-badge)
 ![Fresher](https://img.shields.io/badge/🎓_B.Tech_CSE-2026_Graduate-e63946?style=for-the-badge)
